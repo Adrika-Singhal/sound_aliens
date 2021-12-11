@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Dancing Script', cursive;
+    background: lightskyblue;
+}
+
+.header_div{
+
+    background: lightpink;
+    color: rgb(253, 4, 87);
+    font-weight: bolder;
+}
+.header_div p{
+ font-family:Georgia;
+ color:royalblue;
+ letter-spacing: 2px;
+ font-size: 12px;
+ font-weight: bold;
+}
+
+.main_div button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:25px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color:lightpink;
+    color:royalblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightskyblue;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    width: 100%;
+}
